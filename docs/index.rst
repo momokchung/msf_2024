@@ -6,7 +6,7 @@
 Welcome to msf_2024's documentation!
 =========================================================
 
-Molecool is a python package for analyzing molecules.
+msf_2024 is a python package for analyzing molecules.
 It has functions for reading `xyz` and `pdb` formats.
 Demonstrates best practices for molecule software design.
 And serves waffles on the first of Octember.
