@@ -9,6 +9,8 @@ dependencies:
   - python
   - pip
   - numpy
+  - matplotlib
+  - sphinx
   
   - pydata-sphinx-theme
   - sphinx-design
